@@ -75,5 +75,4 @@ pip install pandas seaborn matplotlib
 
 The script generates a heatmap that visualizes the wellbeing status of each employee across a series of days:
 
-![Employee Wellbeing Heatmap](![image](https://github.com/user-attachments/assets/9b4a0e64-5df7-4e26-9109-94b8702ff31e)
-)
+![Employee Wellbeing Heatmap](https://github.com/user-attachments/assets/3ecfbd4d-fdc4-4e28-b652-ebb6ab37311e)
